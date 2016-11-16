@@ -1,0 +1,6 @@
+/home/kenwi/RiderProjects/Quantum/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kenwi/RiderProjects/Quantum/bin/Debug/Quantum.exe.mdb
+/home/kenwi/RiderProjects/Quantum/bin/Debug/Quantum.exe
+/home/kenwi/RiderProjects/Quantum/obj/Debug/Quantum.exe
+/home/kenwi/RiderProjects/Quantum/obj/Debug/Quantum.exe.mdb
+/home/kenwi/RiderProjects/Quantum/bin/Debug/System.Numerics.dll

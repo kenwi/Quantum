@@ -1,0 +1,5 @@
+/home/kenwi/RiderProjects/Quantum/Classical/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kenwi/RiderProjects/Quantum/Classical/bin/Debug/Classical.exe.mdb
+/home/kenwi/RiderProjects/Quantum/Classical/bin/Debug/Classical.exe
+/home/kenwi/RiderProjects/Quantum/Classical/obj/Debug/Classical.exe
+/home/kenwi/RiderProjects/Quantum/Classical/obj/Debug/Classical.exe.mdb
